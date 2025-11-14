@@ -6,11 +6,11 @@ plugins {
 
 android {
     namespace = "com.example.medicare"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.medicare"
-        minSdk = 24
+        minSdk = 25
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
